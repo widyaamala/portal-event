@@ -1,0 +1,23 @@
+
+ @media screen and (min-width: 420px){
+ 	#title{
+	visibility: hidden;
+	display: none;
+}
+ }
+
+ @media screen and (min-width: 420px){
+ 	#mobile{
+	visibility: hidden;
+	display: none;
+}
+ }
+
+ @media screen and (max-width: 430px){
+ 	#web{
+	visibility: hidden;
+	display: none;
+}
+ }
+
+ 

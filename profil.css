@@ -1,0 +1,74 @@
+
+/*---------------------
+	Hero section
+-----------------------*/
+.hero-section {
+	background: #f2f7f8;
+}
+
+.hero-text {
+	margin-bottom: 1em;
+	padding-top: 3em;
+}
+
+.hero-info p {
+	font-size: 2em;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #808181;
+	line-height: 1.3;
+}
+
+.hero-text h2 {
+	font-size: 4em;
+	color: #40424a;
+	line-height: normal;
+	margin-bottom: 0.2em;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.hero-image {
+	padding-top: 3em;
+}
+
+.hero-image img{
+	width: 100%;
+	height: auto;
+}
+
+.hero-info ul {
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.hero-info ul li {
+	font-size: 1em;
+	color: #808181;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-bottom: 1.3em;
+}
+
+.hero-info ul li span {
+	color: #40424a;
+	display: inline-block;
+	min-width: 10em;
+}
+
+.hero-info ul li:last-child {
+	margin-bottom: 0;
+}
+
+.hero-barcode ul {
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.hero-barcode ul li {
+	font-size: 1em;
+	color: #40424a;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-bottom: 1.3em;
+}
+
+.hero-barcode ul li span {
+	margin-bottom: 1em;
+}

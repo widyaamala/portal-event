@@ -1,0 +1,42 @@
+.accordion.accordion-3 {
+border-radius: 3px;
+}
+.accordion.accordion-3 p {
+font-size: 1rem; }
+
+.accordion .animated-icon1 span {
+background: #F44336;
+}
+
+
+.card{
+	padding: 5px;
+}
+.page-section h2.section-heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #107f35;
+}
+
+.team-member {
+	margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.team-member img {
+  width: 225px;
+  height: 225px;
+  border: 7px solid rgba(0, 0, 0, 0.1);
+}
+
+.team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
+.team-member p {
+  margin-top: 0;
+}

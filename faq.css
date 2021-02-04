@@ -1,0 +1,59 @@
+.accordion.accordion-3 {
+border-radius: 3px;
+}
+.accordion.accordion-3 p {
+font-size: 1rem; }
+
+.accordion .animated-icon1 span {
+background: #F44336;
+}
+
+
+.card{
+	padding: 5px;
+}
+
+@media screen and (min-width: 575px){
+.search-box{
+	position: absolute;
+	background: white;
+	height: 40px;
+	border-radius: 40px;
+	padding: 10px;
+}
+
+.search-text{
+	border: none;
+	background: none;
+	outline: none;
+	float: left;
+	padding: 0;
+	font-size: 16px;
+	transition: 0.4s;
+	line-height: 20px;
+	width: 240px;
+}
+}
+
+@media screen and (max-width: 574px){
+.search-box{
+	position: absolute;
+	background: white;
+	height: 35px;
+	border-radius: 40px;
+	padding: 8px;
+}
+
+.search-text{
+	border: none;
+	background: none;
+	outline: none;
+	float: left;
+	padding: 0;
+	font-size: 16px;
+	transition: 0.4s;
+	line-height: 20px;
+	width: 240px;
+	margin-top: -2px;
+}
+}

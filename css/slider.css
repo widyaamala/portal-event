@@ -1,0 +1,24 @@
+.card{
+	position: relative;
+	border: none;
+}
+
+.card img:hover{
+	opacity: .8;
+	transition: .5s;
+}
+
+.card-body{
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+}
+.card:after{
+	position: absolute;
+	left: 5px;
+	margin-top: 5px;
+	opacity: .5;
+}
+.card:hover:after{
+	opacity: .9;
+}
